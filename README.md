@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kate</h1>
-<h3 align="center">Currently Transitioning into tech without coding hassles why not Cybersecuitycurity</h3>
+<h3 align="center">Currently Transitioning into tech without coding hassles why not Cybersecuity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathie28&label=Profile%20views&color=0e75b6&style=flat" alt="kathie28" /> </p>
 
